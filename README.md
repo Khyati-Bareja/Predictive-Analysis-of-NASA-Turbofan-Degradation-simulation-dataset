@@ -56,7 +56,10 @@ Provided By: PCoE
 
 # Approach
 There are number of ways to approach this problem, 
-- First Principles Modelingtechnique: Requires a lot of Domain expertise, start with some kind of principle like newton's second law and from that we derive equations on how the system behaves and using those equations we can predict the state of the device i.e if its healthy or when will it degrade.
-- Data driven Modeling technique: Here we solely depend upon the data collected from the devices and use Machine learning techniques and statistical appraches to develop models based purely on this data to help us derive necessary predictions.
-- Hybrid Appraoches: This falls somewhere in middle where I might require some level of First priciple's understanding and use some data driven techniques to help me fill in the gap between the knowledge.
+- # First Principles Modeling technique:
+  Requires a lot of Domain expertise, start with some kind of principle like newton's second law and from that we derive equations on how the system behaves and using those equations we can predict the state of the device i.e if its healthy or when will it degrade.
+- # Data driven Modeling technique:
+  Here we solely depend upon the data collected from the devices and use Machine learning techniques and statistical appraches to develop models based purely on this data to help us derive necessary predictions.
+- # Hybrid Appraoches:
+  This falls somewhere in middle where I might require some level of First priciple's understanding and use some data driven techniques to help me fill in the gap between the knowledge.
   
