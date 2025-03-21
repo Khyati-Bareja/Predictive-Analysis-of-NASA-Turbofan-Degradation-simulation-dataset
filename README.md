@@ -62,4 +62,13 @@ There are number of ways to approach this problem,
   Here we solely depend upon the data collected from the devices and use Machine learning techniques and statistical appraches to develop models based purely on this data to help us derive necessary predictions.
 - # Hybrid Appraoches:
   This falls somewhere in middle where I might require some level of First priciple's understanding and use some data driven techniques to help me fill in the gap between the knowledge.
+
+# Files
+EDA-and-Modeling + Weibull Curve.ipynb: This Jupyter notebook contains the exploratory data analysis and modeling code for the project. It includes survival analysis methods and a generalized linear model with a binomial link function. It utilizes the methods in survial analysis like Partial Effects on Survival, WeibullAFTFitter and KaplanMeier curve.
+
+LNM Group Assignment 1.R: This R script contains additional code for the project.
+
+src/EDA-and-Modeling.ipynb: This notebook contains the application of Random Forest Regressor to predict the Remaining Useful Life (RUL) dependent variable.
+
+LogisticRegression.ipynb: This Jupyter notebook contains additional code for the project, including a Hosmer-Lemeshow test, time-series feature generation, application of generalized linear model with binomial link function and confusion matrix.
   
