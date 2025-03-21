@@ -1,7 +1,7 @@
 # Predictive-Analysis-of-NASA-Turbofan-Degradation-simulationDataset
 Aim of the project is to predict the remaining useful life (RUL) of turbofan jet engines using the NASA Turbofan Jet Engine Data Set.
 
-# Baisis of Predictive Mainenance and Failure Analysis
+# Basics of Predictive Mainenance and Failure Analysis
 Every device has a point of failure, a new device from the manufacturer is healthy but due to wear and tear on the device as it ages it health slowly deteriorates and eventually it fails. 
 
 At this point we need to provide maintenance of the device to get it back to a healthy condition. 
